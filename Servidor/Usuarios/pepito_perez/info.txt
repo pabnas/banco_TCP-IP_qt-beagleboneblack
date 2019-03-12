@@ -1,0 +1,15 @@
+Nombre
+pepito perez
+
+Edad
+12
+
+Telefono
+2
+
+Cuentas
+
+3
+1.txt
+3.txt
+info.txt

@@ -1,0 +1,15 @@
+conectado
+0
+
+clave
+1234
+
+saldo
+0
+
+nombre
+simon_esteban
+
+tipo
+Ahorros
+

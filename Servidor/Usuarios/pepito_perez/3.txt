@@ -1,0 +1,15 @@
+conectado
+0
+
+clave
+2
+
+saldo
+0
+
+nombre
+pepito
+
+tipo
+Ahorros
+

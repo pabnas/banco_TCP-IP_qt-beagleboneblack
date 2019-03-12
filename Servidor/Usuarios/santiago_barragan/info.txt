@@ -1,0 +1,15 @@
+Nombre
+santiago_barragan
+
+Edad
+19
+
+Telefono
+31352
+
+Cuentas
+
+3
+1018504471.txt
+1018504475.txt
+info.txt

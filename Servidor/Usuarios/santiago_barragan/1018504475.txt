@@ -1,0 +1,15 @@
+conectado
+0
+
+clave
+12345
+
+saldo
+100
+
+nombre
+santiago
+
+tipo
+Ahorros
+

@@ -1,0 +1,15 @@
+conectado
+0
+
+clave
+0719
+
+saldo
+1000
+
+nombre
+santiago
+
+tipo
+Corriente
+

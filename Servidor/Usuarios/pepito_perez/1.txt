@@ -1,0 +1,15 @@
+conectado
+0
+
+clave
+01
+
+saldo
+100
+
+nombre
+pepito
+
+tipo
+Corriente
+

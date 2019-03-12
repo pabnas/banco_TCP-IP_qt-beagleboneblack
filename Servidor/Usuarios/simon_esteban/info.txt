@@ -1,0 +1,14 @@
+Nombre
+simon_esteban
+
+Edad
+12
+
+Telefono
+31245
+
+Cuentas
+
+2
+4.txt
+info.txt
